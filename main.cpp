@@ -1,4 +1,4 @@
-include "Circuito.h"
+#include "Circuito.h"
 #include <iostream>
 #include <stdlib.h>
 

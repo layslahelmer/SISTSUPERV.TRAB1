@@ -6,7 +6,7 @@ int main()
 {
 	system("CLS");
 
-	Circuito meuCircuito(true);
+	Circuito meuCircuito(9.5, 7.5, 24.001);
 	Circuito meuCircuito2(false);
 
 
